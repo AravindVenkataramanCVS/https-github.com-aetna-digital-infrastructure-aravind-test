@@ -1,0 +1,8 @@
+site_name: "Aravind"
+site_description: 
+
+nav:
+  - Introduction: backstage-index.md
+
+plugins:
+  - techdocs-core
